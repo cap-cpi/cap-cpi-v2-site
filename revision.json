@@ -1,0 +1,771 @@
+{
+  "meta": {
+    "title": "Lois, théories et définitions — l'essentiel",
+    "updated": "2026-11-25",
+    "laws": 21,
+    "theories": 78,
+    "definitions": 42,
+    "source": "Revision_Minimale_Lois_Theories_FR_v2_3_tableaux.docx"
+  },
+  "facts": [
+    "1. Rentrée 2026-2027 : 513 établissements, 424 000 places, 18 nouveaux établissements et 193 filières créées, restructurées ou actualisées.",
+    "2. Plan d'action 2026 : métiers émergents (économie verte, cybersécurité, gaming, IA), sécurité du SI, gouvernance des accès et dématérialisation des diplômes.",
+    "3. Qualité : SMOE aligné sur ISO 21001 ; objectif de plus de 70 % d'établissements conformes en 2026.",
+    "4. Capital humain : 5 000 journées de formation annoncées en 2026 pour les équipes pédagogiques et administratives.",
+    "5. Incident MyWay (communiqué du 14 avril 2026) : investigation, confinement et correction ; s'en tenir aux faits publiés.",
+    "6. Statut du personnel OFPPT : statut propre amendé en 2019 ; carrière, promotion et mobilité relèvent du statut et des notes internes, pas du statut général."
+  ],
+  "laws": [
+    {
+      "ref": "Constitution 2011 (art. 154-157)",
+      "nature": "Constitution",
+      "summary": "Art. 154 : égalité d'accès, couverture équitable, continuité, qualité, transparence, responsabilité et reddition des comptes. Art. 155 : probité et respect de la loi par les agents. Art. 156 : écoute des usagers et information. Art. 157 : Charte des services publics."
+    },
+    {
+      "ref": "Loi 54-19 — Charte des services publics",
+      "nature": "Loi",
+      "summary": "Dahir 1-21-58 (14 juillet 2021). Principes et engagements : qualité, égalité, continuité, adaptabilité, transparence, responsabilité et reddition des comptes."
+    },
+    {
+      "ref": "Loi 55-19 — simplification",
+      "nature": "Loi",
+      "summary": "Dahir 1-20-06 (6 mars 2020). Inventaire des procédures, clarté des pièces exigibles, publication des démarches, réduction des redondances. Le silence ne vaut acceptation que dans les cas prévus par les textes."
+    },
+    {
+      "ref": "Loi 31-13 — accès à l'information",
+      "nature": "Loi",
+      "summary": "Droit d'accès aux documents administratifs, sous réserve d'exceptions. Délai normal : 20 jours ouvrables ; 3 jours dans les situations urgentes prévues. Communication partielle possible après occultation."
+    },
+    {
+      "ref": "Loi 03-01 — motivation des décisions",
+      "nature": "Loi",
+      "summary": "Motivation écrite de certaines décisions individuelles défavorables, avec les considérations de droit et de fait. Le champ est limité par l'article 2 : ne pas généraliser à toute décision."
+    },
+    {
+      "ref": "Loi organique 130-13 — loi de finances",
+      "nature": "Loi organique",
+      "summary": "Dahir 1-15-62 (2 juin 2015). Logique de programmes, objectifs, projets et indicateurs de performance (art. 39). Repère pour la culture du résultat."
+    },
+    {
+      "ref": "Loi 09-08 — données personnelles",
+      "nature": "Loi",
+      "summary": "Dahir 1-09-15 (18 février 2009). Licéité, finalité, minimisation, exactitude, durée limitée, sécurité et droits des personnes. Formalités CNDP selon les cas ; le consentement n'est pas la seule base légale."
+    },
+    {
+      "ref": "Loi 05-20 — cybersécurité",
+      "nature": "Loi",
+      "summary": "Dahir 1-20-69 (25 juillet 2020). Sécurité des systèmes d'information des entités concernées ; déclaration des incidents à l'autorité nationale dès connaissance (art. 8)."
+    },
+    {
+      "ref": "Loi 43-20 — services de confiance",
+      "nature": "Loi",
+      "summary": "Dahir 1-20-100 (31 décembre 2020). Signature électronique, cachet, horodatage et prestataires de confiance. Le niveau de signature requis dépend de l'acte ; une signature scannée n'est pas qualifiée."
+    },
+    {
+      "ref": "Loi 62-99 — juridictions financières",
+      "nature": "Loi",
+      "summary": "Code des juridictions financières. Contrôle et jugement des comptes ; contrôle de gestion sur les objectifs, résultats, coûts, régularité et qualité de gestion (art. 75)."
+    },
+    {
+      "ref": "Loi 69-00 — contrôle financier",
+      "nature": "Loi",
+      "summary": "Contrôle financier de l'État sur les entreprises publiques et organismes, selon leur régime. Vérifier le régime applicable à l'OFPPT avant d'appliquer une obligation précise."
+    },
+    {
+      "ref": "Loi 61-99 — responsabilité des ordonnateurs",
+      "nature": "Loi",
+      "summary": "Responsabilité des ordonnateurs, contrôleurs et comptables publics dans leur champ. Relie le contrôle à la responsabilité et à la reddition des comptes."
+    },
+    {
+      "ref": "Décret 2.17.618 — déconcentration",
+      "nature": "Décret",
+      "summary": "Charte nationale de la déconcentration administrative (26 décembre 2018) : organisation des services déconcentrés, clarification des compétences et coordination entre niveaux central et territorial."
+    },
+    {
+      "ref": "Décrets d'application de la déconcentration",
+      "nature": "Décrets / circulaire",
+      "summary": "Décret 2.19.40 (schéma directeur), décret 2.22.81 (délégation de pouvoir et signature), circulaire 17/2020 : textes d'application de la Charte de déconcentration. Vérifier leur champ."
+    },
+    {
+      "ref": "Décret 2-05-1366 — formation continue",
+      "nature": "Décret",
+      "summary": "Formation continue des fonctionnaires et agents de l'État : qualification, perfectionnement, expertise, préparation à d'autres fonctions. Vérifier son applicabilité à l'OFPPT via le statut ou un texte de renvoi."
+    },
+    {
+      "ref": "Décret 2-22-431 — marchés publics",
+      "nature": "Décret",
+      "summary": "Liberté d'accès, égalité de traitement, transparence, intégrité et bonne gouvernance. Prévenir les conflits d'intérêts et sécuriser les achats."
+    },
+    {
+      "ref": "Statut du personnel de l'OFPPT",
+      "nature": "Statut",
+      "summary": "Statut propre du personnel, amendé en 2019 : carrière, promotion, avancement, mobilité, évaluation et rémunération. Ne pas appliquer automatiquement le statut général de la fonction publique."
+    },
+    {
+      "ref": "Dahir 1-58-008 — statut général de la fonction publique",
+      "nature": "Dahir",
+      "summary": "Statut général de la fonction publique. Repère pour de nombreux fonctionnaires de l'État ; ne s'applique pas automatiquement au personnel de l'OFPPT, qui relève de son statut propre."
+    },
+    {
+      "ref": "Dahir-loi 1-72-183 — institution de l'OFPPT",
+      "nature": "Dahir-loi",
+      "summary": "Texte fondateur de l'OFPPT : nature juridique d'établissement public et missions de formation professionnelle et de promotion du travail."
+    },
+    {
+      "ref": "Discours royaux 2025-2026",
+      "nature": "Orientation",
+      "summary": "Culture du résultat, données de terrain, régionalisation avancée, déconcentration, transfert des compétences et des ressources humaines et financières vers les territoires."
+    },
+    {
+      "ref": "Maroc Digital 2030 / AI Made in Morocco 2030",
+      "nature": "Stratégie",
+      "summary": "Orientations stratégiques : digitalisation des services, inclusion, compétences, données, IA utile, responsable et souveraine. Ce ne sont pas des lois ; les lois 09-08, 05-20 et 43-20 restent applicables."
+    }
+  ],
+  "theories": [
+    {
+      "author": "Abraham Maslow",
+      "idea": "Hiérarchie des besoins : physiologiques, sécurité, appartenance, estime, accomplissement. La hiérarchie est souple : plusieurs besoins peuvent coexister."
+    },
+    {
+      "author": "ADKAR (Prosci)",
+      "idea": "Conscience, désir, connaissance, capacité, renforcement : le changement se joue au niveau individuel."
+    },
+    {
+      "author": "Amy Edmondson",
+      "idea": "La sécurité psychologique permet de poser des questions et d'admettre une erreur sans crainte d'humiliation."
+    },
+    {
+      "author": "Approche socio-technique (Trist et Bamforth)",
+      "idea": "La performance dépend de l'alignement entre technologie, organisation et personnes."
+    },
+    {
+      "author": "Belbin — 9 rôles d'équipe",
+      "idea": "Neuf rôles : coordonnateur, propulseur (shaper), innovateur (plant), évaluateur, réalisateur, coéquipier, explorateur, finisseur, spécialiste. L'efficacité vient de l'équilibre des rôles, pas du nombre de diplômes."
+    },
+    {
+      "author": "Bernard Bass",
+      "idea": "Leadership transformationnel : influence idéalisée, motivation inspirante, stimulation intellectuelle, considération individuelle."
+    },
+    {
+      "author": "Blake et Mouton — grille managériale",
+      "idea": "Deux axes : intérêt pour la production et intérêt pour les personnes. Cinq styles : appauvri, country club, autoritaire (tâche), intermédiaire, équipe."
+    },
+    {
+      "author": "Bruce Tuckman",
+      "idea": "Quatre phases : formation, turbulence, normalisation, performance. La turbulence est normale ; le manager adapte son accompagnement."
+    },
+    {
+      "author": "Clayton Christensen",
+      "idea": "Innovation de rupture : elle commence souvent sur un segment marginal avant de devenir dominante ; les acteurs établis peuvent être piégés."
+    },
+    {
+      "author": "COSO (2013)",
+      "idea": "Cinq composantes : environnement, risques, activités de contrôle, information/communication, pilotage."
+    },
+    {
+      "author": "COSO ERM (2017)",
+      "idea": "Les risques sont reliés à la stratégie et à la performance, pas seulement à la prévention."
+    },
+    {
+      "author": "DAMA-DMBOK (gouvernance des données)",
+      "idea": "La donnée a un cycle de vie : qualité, sécurité, métadonnées, propriété, accès."
+    },
+    {
+      "author": "Daniel Goleman",
+      "idea": "L'intelligence émotionnelle : conscience de soi, maîtrise de soi, empathie, compétences sociales."
+    },
+    {
+      "author": "David McClelland",
+      "idea": "Trois besoins acquis orientent la motivation : accomplissement (nAch), affiliation (nAff), pouvoir (nPow)."
+    },
+    {
+      "author": "Design thinking (IDEO / Brown)",
+      "idea": "Comprendre l'usager, prototyper, tester, itérer."
+    },
+    {
+      "author": "Donald Kirkpatrick — 4 niveaux",
+      "idea": "Évaluer une formation à quatre niveaux : réaction (satisfaction), apprentissage (savoirs et savoir-faire), comportement (transfert sur le poste), résultats (impact sur l'organisation)."
+    },
+    {
+      "author": "Douglas McGregor",
+      "idea": "Théorie X (contrôle) et théorie Y (responsabilisation)."
+    },
+    {
+      "author": "Effet Ringelmann",
+      "idea": "La performance individuelle peut diminuer quand le groupe s'agrandit si les contributions ne sont pas identifiables."
+    },
+    {
+      "author": "Elton Mayo",
+      "idea": "Les relations humaines et le climat social influencent la performance."
+    },
+    {
+      "author": "Etienne Wenger",
+      "idea": "Les communautés de pratique partagent un domaine, des pratiques et un engagement mutuel."
+    },
+    {
+      "author": "Everett Rogers",
+      "idea": "La diffusion d'une innovation dépend des innovateurs, des early adopters et du groupe."
+    },
+    {
+      "author": "Frank Knight",
+      "idea": "Il faut distinguer le risque (probabilités estimables) de l'incertitude (non calculable)."
+    },
+    {
+      "author": "Frederick Herzberg",
+      "idea": "Facteurs d'hygiène (salaire, conditions, sécurité) qui évitent l'insatisfaction ; facteurs de motivation (reconnaissance, responsabilité, accomplissement) qui créent l'engagement."
+    },
+    {
+      "author": "George Doran (SMART)",
+      "idea": "Spécifique, mesurable, atteignable, pertinent, temporel."
+    },
+    {
+      "author": "Guy Le Boterf",
+      "idea": "La compétence n'est pas une somme de savoirs : c'est un savoir-agir en situation, qui combine ressources et prise d'initiative."
+    },
+    {
+      "author": "Hackman et Oldham",
+      "idea": "Cinq caractéristiques du poste (variété des compétences, identité de la tâche, signification, autonomie, feedback) produisent trois états psychologiques (sens, responsabilité, connaissance des résultats), donc motivation, performance et satisfaction."
+    },
+    {
+      "author": "Henry Mintzberg",
+      "idea": "Les rôles du manager : interpersonnel, informationnel, décisionnel."
+    },
+    {
+      "author": "Hersey et Blanchard",
+      "idea": "Leadership situationnel : adapter le style (directif, persuasif, participatif, délégatif) au niveau d'autonomie et à la situation."
+    },
+    {
+      "author": "ISO 21001 / SMOE",
+      "idea": "Système de management des organismes éducatifs : processus, écoute des parties intéressées, amélioration continue."
+    },
+    {
+      "author": "ISO 22301 — continuité d'activité",
+      "idea": "Système de management de la continuité : analyse d'impact, stratégies, plans testés et amélioration continue."
+    },
+    {
+      "author": "ISO 31000",
+      "idea": "Processus continu : établir le contexte, identifier, analyser, évaluer, traiter, surveiller, communiquer."
+    },
+    {
+      "author": "J. Stacy Adams",
+      "idea": "Équité perçue entre contributions et contreparties."
+    },
+    {
+      "author": "John Kotter",
+      "idea": "Huit étapes : urgence, coalition, vision, communication, lever les obstacles, victoires rapides, consolidation, ancrage."
+    },
+    {
+      "author": "Joseph Schumpeter",
+      "idea": "L'innovation est une « destruction créatrice » : elle remplace des solutions existantes et bouscule les positions acquises."
+    },
+    {
+      "author": "Kaizen",
+      "idea": "Amélioration continue par de petits progrès réguliers impliquant tous les niveaux de l'organisation."
+    },
+    {
+      "author": "Kaplan et Norton",
+      "idea": "Balanced scorecard : équilibrer perspectives financière, usager, processus et apprentissage."
+    },
+    {
+      "author": "Kurt Lewin",
+      "idea": "Décristalliser (préparer), changer (mettre en œuvre), recristalliser (ancrer). Sans ancrage, les anciennes pratiques reviennent."
+    },
+    {
+      "author": "Manifeste agile (2001)",
+      "idea": "Priorité aux personnes et à l'adaptation ; cycles courts ; livraison de valeur ; feedback permanent."
+    },
+    {
+      "author": "Mark Moore (valeur publique)",
+      "idea": "La performance publique se juge aussi à la valeur créée pour la collectivité."
+    },
+    {
+      "author": "Martin Seligman",
+      "idea": "Impuissance apprise : des échecs répétés perçus comme incontrôlables entraînent une baisse de motivation et de persévérance."
+    },
+    {
+      "author": "Matrice RACI",
+      "idea": "Responsible (réalise), Accountable (décide et répond), Consulted (consulté), Informed (informé). Un seul Accountable par activité ; la matrice clarifie les responsabilités dans un projet."
+    },
+    {
+      "author": "Max Weber",
+      "idea": "La bureaucratie rationnelle-légale garantit l'égalité et la traçabilité par des règles écrites et une hiérarchie claire."
+    },
+    {
+      "author": "Modèle d'acceptation de la technologie (Davis)",
+      "idea": "L'adoption dépend de l'utilité perçue et de la facilité d'usage perçue."
+    },
+    {
+      "author": "Modèle de Harvard (Beer et al., 1984)",
+      "idea": "Les pratiques RH doivent être cohérentes avec la stratégie et les parties prenantes."
+    },
+    {
+      "author": "Modèle des trois lignes (IIA)",
+      "idea": "Trois lignes : opérationnels (gèrent le risque), fonctions de contrôle (surveillent), audit interne (évalue indépendamment)."
+    },
+    {
+      "author": "Nassim Taleb",
+      "idea": "Les « cygnes noirs » sont des événements rares à fort impact, sous-estimés par les modèles."
+    },
+    {
+      "author": "New Public Management (Osborne et Gaebler, 1992)",
+      "idea": "Faire passer l'administration d'une culture de moyens à une culture de résultats, avec des indicateurs et une orientation usager."
+    },
+    {
+      "author": "Nonaka et Takeuchi",
+      "idea": "Le savoir tacite se transmet par l'observation, le tutorat et la conversion en savoir explicite."
+    },
+    {
+      "author": "OKR (John Doerr)",
+      "idea": "Objectifs ambitieux et résultats clés mesurables, alignés et revus régulièrement."
+    },
+    {
+      "author": "Peter Drucker",
+      "idea": "Management par objectifs : objectifs clairs, mesurables et partagés, responsabilisation, évaluation des résultats."
+    },
+    {
+      "author": "Peter Senge",
+      "idea": "Organisation apprenante : apprendre collectivement, interroger les modèles mentaux, développer la maîtrise personnelle et la vision partagée."
+    },
+    {
+      "author": "Pierre Lévy",
+      "idea": "L'intelligence collective est une intelligence partout distribuée, sans cesse valorisée et coordonnée en temps réel."
+    },
+    {
+      "author": "Principes de l'IA responsable (OCDE)",
+      "idea": "Transparence, responsabilité, sécurité, équité, contrôle humain."
+    },
+    {
+      "author": "Pyramide des âges / cartographie",
+      "idea": "Outils de visualisation des déséquilibres démographiques et des compétences critiques."
+    },
+    {
+      "author": "Robert Greenleaf",
+      "idea": "Leadership serviteur : le leader se met au service de la croissance et de l'autonomie de l'équipe, sans renoncer à ses responsabilités."
+    },
+    {
+      "author": "Taylor et Fayol",
+      "idea": "Taylor : organisation scientifique du travail (division, standardisation, rendement). Fayol : fonctions du manager (prévoir, organiser, commander, coordonner, contrôler). Apports : clarté ; limites : rigidité."
+    },
+    {
+      "author": "Thomas et Kilmann",
+      "idea": "Cinq modes de gestion des conflits : éviter, accommoder, compromis, compétition, collaboration."
+    },
+    {
+      "author": "Théorie de l'agence",
+      "idea": "L'information asymétrique et les intérêts divergents justifient des contrôles."
+    },
+    {
+      "author": "Théorie de l'autodétermination (Deci & Ryan)",
+      "idea": "Motivation intrinsèque (autonomie, compétence, affiliation) et extrinsèque. Trois besoins psychologiques : autonomie, compétence, affiliation."
+    },
+    {
+      "author": "Triangle de la fraude (Cressey)",
+      "idea": "Pression, opportunité, rationalisation : trois conditions favorisent la fraude."
+    },
+    {
+      "author": "Victor Vroom (VIE)",
+      "idea": "Théorie des attentes VIE : Valence × Instrumentalité × Expectation. La motivation dépend de l'attente, de l'instrumentalité et de la valence."
+    },
+    {
+      "author": "W. Edwards Deming — PDCA",
+      "idea": "PDCA : planifier, réaliser, vérifier, corriger. Amélioration continue, mesure pour apprendre, test avant généralisation, remontée des problèmes."
+    },
+    {
+      "author": "William Bridges",
+      "idea": "La transition commence par une phase de deuil et d'incertitude avant le nouveau départ."
+    },
+    {
+      "author": "Johannes Siegrist",
+      "idea": "Modèle ERI (déséquilibre efforts-récompenses) : la motivation durable dépend de la réciprocité entre les efforts fournis et les récompenses perçues (salaire, estime, sécurité, perspectives). Un déséquilibre prolongé génère stress et épuisement."
+    },
+    {
+      "author": "Edward de Bono — six chapeaux",
+      "idea": "Six chapeaux : blanc (faits), rouge (émotions), noir (risques), jaune (bénéfices), vert (créativité), bleu (pilotage). Séparer les modes de pensée pour structurer une décision collective."
+    },
+    {
+      "author": "Locke et Latham — théorie des objectifs",
+      "idea": "Objectifs précis et exigeants : clarté, défi réaliste, engagement, feedback et complexité adaptée améliorent la performance plus qu'une consigne vague."
+    },
+    {
+      "author": "Mary Parker Follett",
+      "idea": "Coordination par l'intégration et conflit constructif ; l'autorité découle de la fonction et de la situation, pas seulement de la personne."
+    },
+    {
+      "author": "Chester Barnard",
+      "idea": "Théorie de l'acceptation de l'autorité : un ordre n'est suivi que s'il est compris, compatible et jugé légitime ; rôle de l'organisation informelle et de la coopération."
+    },
+    {
+      "author": "Herbert Simon — rationalité limitée",
+      "idea": "Les décideurs ne maximisent pas : ils choisissent une solution satisfaisante (satisficing) sous contraintes d'information, de temps et de capacité cognitive."
+    },
+    {
+      "author": "Tom Burns et G. M. Stalker",
+      "idea": "Structures mécanistes pour les environnements stables ; structures organiques, plus souples, pour les environnements incertains et innovants."
+    },
+    {
+      "author": "Paul Lawrence et Jay Lorsch",
+      "idea": "Approche contingente : le degré de différenciation et d'intégration doit s'ajuster à l'incertitude de l'environnement."
+    },
+    {
+      "author": "Fred Fiedler — leadership contingent",
+      "idea": "L'efficacité du leader dépend de son style (score LPC) et de la situation : relations, structure de la tâche et pouvoir de position."
+    },
+    {
+      "author": "Robert House — path-goal",
+      "idea": "Le leader clarifie les objectifs, lève les obstacles et adapte son style (directif, soutenant, participatif, orienté achievement) aux besoins des collaborateurs."
+    },
+    {
+      "author": "Geert Hofstede",
+      "idea": "Dimensions culturelles : distance hiérarchique, individualisme/collectivisme, masculinité/féminité, évitement de l'incertitude, orientation long terme et indulgence."
+    },
+    {
+      "author": "Edgar Schein",
+      "idea": "Culture organisationnelle en trois niveaux : artefacts visibles, valeurs adoptées et hypothèses de base inconscientes."
+    },
+    {
+      "author": "Chris Argyris",
+      "idea": "Apprentissage en simple et double boucle ; distinction entre théorie professée et théorie utilisée en action."
+    },
+    {
+      "author": "Mihaly Csikszentmihalyi",
+      "idea": "Flow : équilibre entre défi et compétence, objectifs clairs, feedback immédiat et concentration ; condition d'engagement intrinsèque."
+    },
+    {
+      "author": "Albert Bandura",
+      "idea": "Auto-efficacité : croyance en sa capacité à réussir une tâche, nourrie par les expériences de maîtrise, les modèles, la persuasion et l'état émotionnel."
+    }
+  ],
+  "definitions": [
+    {
+      "concept": "Modernisation",
+      "definition": "Transformation des structures, méthodes, outils et compétences pour améliorer le service, l'efficience et la transparence."
+    },
+    {
+      "concept": "Orientation usager",
+      "definition": "Concevoir le service à partir des besoins et du parcours réel de l'usager."
+    },
+    {
+      "concept": "Simplification administrative",
+      "definition": "Supprimer les étapes, pièces et validations non justifiées sans affaiblir la légalité ni les contrôles nécessaires."
+    },
+    {
+      "concept": "Dématérialisation",
+      "definition": "Remplacer un support ou un échange papier par un processus numérique adapté."
+    },
+    {
+      "concept": "Transformation organisationnelle",
+      "definition": "Changement profond et coordonné des structures, processus, culture et compétences."
+    },
+    {
+      "concept": "Continuité de service",
+      "definition": "Maintenir les fonctions essentielles pendant une perturbation ou une transition."
+    },
+    {
+      "concept": "Agilité",
+      "definition": "Ajuster rapidement les façons de faire à partir de retours et d'apprentissages fréquents."
+    },
+    {
+      "concept": "Projet pilote",
+      "definition": "Mise à l'essai limitée pour valider une solution avant son extension."
+    },
+    {
+      "concept": "GPEEC",
+      "definition": "Anticiper les besoins en emplois, effectifs et compétences, puis réduire les écarts avec les ressources disponibles."
+    },
+    {
+      "concept": "Référentiel des emplois et compétences",
+      "definition": "Description des missions, activités, compétences requises et niveaux attendus pour chaque emploi."
+    },
+    {
+      "concept": "Intelligence collective",
+      "definition": "Capacité d'un groupe à combiner connaissances et points de vue pour produire une solution commune."
+    },
+    {
+      "concept": "Sécurité psychologique",
+      "definition": "Pouvoir poser une question, signaler une erreur ou exprimer un désaccord sans crainte d'humiliation."
+    },
+    {
+      "concept": "Communauté de pratique",
+      "definition": "Groupe réuni par un domaine, une pratique partagée et un engagement mutuel."
+    },
+    {
+      "concept": "Transformation digitale",
+      "definition": "Intégrer le numérique dans les processus pour repenser le service, l'organisation et les compétences."
+    },
+    {
+      "concept": "Interopérabilité",
+      "definition": "Capacité de systèmes à échanger et exploiter des données sans ressaisie."
+    },
+    {
+      "concept": "Open data",
+      "definition": "Données publiques non personnelles publiées dans un format librement réutilisable."
+    },
+    {
+      "concept": "Gouvernance des données",
+      "definition": "Règles sur le cycle de vie : qualité, sécurité, métadonnées, propriété, accès et archivage."
+    },
+    {
+      "concept": "Performance publique",
+      "definition": "Atteindre les objectifs en optimisant les moyens, avec qualité de service et équité."
+    },
+    {
+      "concept": "3 E",
+      "definition": "Économie (coût des ressources), efficience (moyens/résultats), efficacité (atteinte des objectifs)."
+    },
+    {
+      "concept": "Indicateur SMART",
+      "definition": "Spécifique, mesurable, atteignable, pertinent et défini dans le temps."
+    },
+    {
+      "concept": "Balanced scorecard",
+      "definition": "Équilibrer les perspectives financière, usager, processus internes, apprentissage et développement."
+    },
+    {
+      "concept": "Risque",
+      "definition": "Événement incertain affectant les objectifs, évalué par la probabilité et l'impact."
+    },
+    {
+      "concept": "Criticité",
+      "definition": "Combinaison probabilité/impact servant à hiérarchiser les risques."
+    },
+    {
+      "concept": "PCA / PRA",
+      "definition": "Le PCA maintient les activités essentielles ; le PRA restaure le système d'information."
+    },
+    {
+      "concept": "Contrôle interne",
+      "definition": "Processus donnant une assurance raisonnable sur les opérations, l'information et la conformité."
+    },
+    {
+      "concept": "Assurance raisonnable",
+      "definition": "Réduction du risque sans élimination totale : le contrôle ne garantit pas l'absence d'erreur."
+    },
+    {
+      "concept": "Séparation des tâches",
+      "definition": "Empêcher qu'une même personne autorise, exécute et vérifie la même opération."
+    },
+    {
+      "concept": "Conduite du changement",
+      "definition": "Préparer, accompagner et stabiliser le passage d'une situation actuelle à une situation cible."
+    },
+    {
+      "concept": "Résistance au changement",
+      "definition": "Réaction à l'incertitude, à la perte de repères ou de pouvoir, ou à une injustice ; information à écouter."
+    },
+    {
+      "concept": "Leadership situationnel",
+      "definition": "Adapter le style au niveau d'autonomie de la personne et à la situation."
+    },
+    {
+      "concept": "Délégation / empowerment",
+      "definition": "Confier une mission avec autonomie, moyens, règles et point de suivi."
+    },
+    {
+      "concept": "VUCA",
+      "definition": "Environnement volatil, incertain, complexe et ambigu."
+    },
+    {
+      "concept": "SWOT",
+      "definition": "Diagnostic des forces, faiblesses, opportunités et menaces."
+    },
+    {
+      "concept": "MVP",
+      "definition": "Version minimale utile d'un produit, destinée à tester un besoin avant généralisation."
+    },
+    {
+      "concept": "PMO",
+      "definition": "Bureau de gestion de projets : méthodes, coordination, suivi et reporting."
+    },
+    {
+      "concept": "ERI (efforts-récompenses)",
+      "definition": "Modèle de Siegrist : le stress et la démotivation naissent d'un déséquilibre durable entre efforts et récompenses (salaire, estime, sécurité, perspectives)."
+    },
+    {
+      "concept": "Six chapeaux de Bono",
+      "definition": "Méthode de créativité qui sépare les modes de pensée par couleur : faits, émotions, risques, bénéfices, idées et pilotage."
+    },
+    {
+      "concept": "Théorie des objectifs",
+      "definition": "Théorie de Locke et Latham : des objectifs clairs, exigeants et acceptés, avec feedback, améliorent la performance."
+    },
+    {
+      "concept": "Flow",
+      "definition": "État d'engagement optimal lorsque le défi et la compétence sont équilibrés, avec des objectifs clairs et un feedback immédiat."
+    },
+    {
+      "concept": "Auto-efficacité",
+      "definition": "Croyance d'une personne en sa capacité à accomplir une tâche ; elle influence l'effort, la persévérance et la performance."
+    },
+    {
+      "concept": "Buno théorie (ambiguïté)",
+      "definition": "Expression souvent employée pour désigner les six chapeaux d’Edward de Bono ; elle peut aussi évoquer Giordano Bruno, Raymond Boudon ou le théorème de Bernoulli, sans lien avec la créativité de groupe."
+    },
+    {
+      "concept": "Locam théorie (ambiguïté)",
+      "definition": "Expression souvent employée pour désigner la théorie des objectifs de Locke et Latham ; elle peut aussi évoquer le rasoir d’Ockham ou la société de financement LOCAM."
+    }
+  ],
+  "themes": [
+    {
+      "id": "t01",
+      "number": 1,
+      "shortTitle": "Modernisation",
+      "title": "Modernisation des organisations publiques",
+      "definition": "La modernisation est la transformation des structures, méthodes, outils et compétences d’une organisation publique afin d’améliorer le service, l’efficience, la transparence et l’adaptation aux usagers.",
+      "objectives": [
+        "Améliorer la qualité",
+        "Simplifier les procédures",
+        "Réduire les délais",
+        "Renforcer la transparence et la redevabilité"
+      ],
+      "advantages": [
+        "Accessibilité accrue",
+        "Processus plus simples",
+        "Meilleure traçabilité",
+        "Décisions mieux informées"
+      ],
+      "limits": [
+        "Coûts de transition",
+        "Résistance",
+        "Fracture numérique",
+        "Risque de numériser une procédure inefficace"
+      ],
+      "conditions": [
+        "Concilier performance et égalité d’accès",
+        "Assurer la continuité",
+        "Accompagner les agents",
+        "Mesurer les résultats"
+      ],
+      "notions": [
+        {
+          "name": "Orientation usager",
+          "definition": "une conception du service à partir des besoins et du parcours réel de l'usager",
+          "objective": "améliorer l'accessibilité, la simplicité et la qualité du service rendu"
+        },
+        {
+          "name": "Simplification administrative",
+          "definition": "la suppression des étapes, pièces et validations qui ne créent pas de valeur ou ne sont pas justifiées",
+          "objective": "réduire les délais et la complexité sans affaiblir la légalité ni les contrôles nécessaires"
+        },
+        {
+          "name": "Approche processus",
+          "definition": "l'analyse d'une activité comme une chaîne d'étapes reliées produisant un résultat pour un bénéficiaire",
+          "objective": "repérer les ruptures, responsabilités floues, doublons et causes de retard"
+        },
+        {
+          "name": "Dématérialisation",
+          "definition": "le remplacement d'un support ou échange papier par un processus numérique adapté",
+          "objective": "fluidifier les échanges, améliorer la traçabilité et faciliter l'accès au service"
+        },
+        {
+          "name": "Pilotage par indicateurs",
+          "definition": "l'utilisation de mesures définies pour suivre l'avancement et les résultats par rapport à des objectifs",
+          "objective": "détecter les écarts assez tôt et éclairer les décisions"
+        },
+        {
+          "name": "Transparence et redevabilité",
+          "definition": "la capacité à expliquer les décisions, critères, résultats et responsabilités dans le respect des règles",
+          "objective": "renforcer la confiance, l'équité et la possibilité de demander des comptes"
+        },
+        {
+          "name": "Accessibilité et inclusion",
+          "definition": "l'adaptation du service aux différences de situation, de capacité et de conditions d'accès des usagers",
+          "objective": "éviter que la modernisation crée de nouvelles barrières"
+        },
+        {
+          "name": "Expérimentation",
+          "definition": "le test limité et contrôlé d'une solution avant sa généralisation",
+          "objective": "apprendre à moindre risque et ajuster une innovation à partir de résultats concrets"
+        },
+        {
+          "name": "Coordination interservices",
+          "definition": "l'organisation de la coopération entre unités dont les activités contribuent à un même résultat",
+          "objective": "réduire les silos et éviter les décisions incompatibles ou les tâches en double"
+        },
+        {
+          "name": "Amélioration continue",
+          "definition": "une démarche cyclique d'observation, d'ajustement, de vérification et de stabilisation des progrès",
+          "objective": "corriger durablement les causes des dysfonctionnements"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "number": 9,
+      "shortTitle": "Motivation",
+      "title": "Motivation",
+      "definition": "La motivation au travail regroupe les facteurs internes et externes qui déclenchent, orientent et maintiennent l’effort vers un objectif.",
+      "objectives": [
+        "Favoriser engagement, persévérance, qualité du travail et alignement des efforts individuels avec les missions collectives"
+      ],
+      "advantages": [
+        "Initiative",
+        "Coopération",
+        "Qualité de service",
+        "Apprentissage",
+        "Persévérance"
+      ],
+      "limits": [
+        "Les leviers varient selon les personnes",
+        "Une récompense perçue comme injuste démotive",
+        "Les discours ne compensent pas le manque de moyens"
+      ],
+      "conditions": [
+        "Associer sens, autonomie, reconnaissance équitable, développement professionnel, feedback et conditions réalistes"
+      ],
+      "notions": [
+        {
+          "name": "Motivation intrinsèque",
+          "definition": "la motivation issue de l'intérêt, du sens ou de la satisfaction associés à l'activité elle-même",
+          "objective": "soutenir l'engagement durable au-delà de la seule récompense externe"
+        },
+        {
+          "name": "Motivation extrinsèque",
+          "definition": "la motivation liée à des conséquences externes comme une reconnaissance, un avantage ou une sanction",
+          "objective": "orienter certains comportements par des conséquences visibles"
+        },
+        {
+          "name": "Attente effort-performance",
+          "definition": "la croyance qu'un effort peut permettre d'atteindre le niveau de performance demandé",
+          "objective": "rendre crédible le lien entre effort, moyens et résultat"
+        },
+        {
+          "name": "Équité perçue",
+          "definition": "le jugement d'équité sur la manière dont contributions, décisions et récompenses sont comparées",
+          "objective": "préserver la confiance et l'acceptation des décisions"
+        },
+        {
+          "name": "Reconnaissance",
+          "definition": "la reconnaissance explicite et crédible d'une contribution ou d'un effort utile",
+          "objective": "renforcer le sentiment de valeur et les comportements souhaités"
+        },
+        {
+          "name": "Autonomie",
+          "definition": "la marge de choix laissée sur la manière d'exécuter une mission dans un cadre et des limites clairs",
+          "objective": "renforcer la responsabilité, l'initiative et l'apprentissage"
+        },
+        {
+          "name": "Objectifs motivants",
+          "definition": "des objectifs compris, exigeants mais atteignables, assortis de retours et de moyens adaptés",
+          "objective": "canaliser l'effort vers une réalisation observable"
+        },
+        {
+          "name": "Sentiment de compétence",
+          "definition": "la perception de pouvoir accomplir une tâche grâce à des capacités et ressources suffisantes",
+          "objective": "encourager l'engagement et la persévérance face aux difficultés"
+        },
+        {
+          "name": "Sens du travail",
+          "definition": "la compréhension de l'utilité et de la contribution de son activité à une finalité plus large",
+          "objective": "renforcer l'engagement et la cohérence des efforts"
+        },
+        {
+          "name": "Climat et bien-être",
+          "definition": "les conditions relationnelles et organisationnelles qui influencent l'expérience quotidienne du travail",
+          "objective": "soutenir la coopération et prévenir la démobilisation"
+        }
+      ]
+    }
+  ]
+}
